@@ -7,7 +7,7 @@
 - 📫 How to reach me ...
 
 
-![Prashant Lugun's Photo](link-to-your-photo)
+![Prashant Lugun's Photo](https://avatars.githubusercontent.com/u/136677987?v=4)
 
 ## Contact Information
 

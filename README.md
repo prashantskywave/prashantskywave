@@ -33,16 +33,6 @@ I am an experienced Full Stack Developer (MERN) based in India. I am passionate 
 - Backend development for the "Dating App" project using Node.js, GraphQL, Express, Serverless, AWS Lambda, and DynamoDB.
 - Contributed to the "CRM" project, implementing features with Laravel, MySQL, and Bootstrap CSS.
 
-### Software Developer - Technomark Solutions (Jan 2021 - Jun 2022)
-
-- Developed RestAPIs for apps and websites.
-- Added new features to existing projects.
-
-### Full Stack Development - CSI Software (Apr 2020 - Jan 2021)
-
-- Worked with technologies like PHP (Core), jQuery, JavaScript, and Figmy.
-- Managed live projects and handled internal projects.
-
 ## Projects
 
 ### Skywave Website

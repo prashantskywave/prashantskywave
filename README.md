@@ -62,12 +62,6 @@ I am an experienced Full Stack Developer (MERN) based in India. I am passionate 
 - Worked on the CRM project using Laravel and MySQL for backend development.
 - Used Tailwind CSS for frontend design.
 
-### Amgranito
-
-- Developed the portfolio website "Amgranito."
-- [Website Link](https://amgranito.ca/)
-- Technology Used: HTML5, CSS3, JavaScript
-
 ## Skills
 
 - Accept New Challenges
@@ -77,8 +71,3 @@ I am an experienced Full Stack Developer (MERN) based in India. I am passionate 
 - Proficient in JavaScript (ES6+)
 - Knowledge of Redux for state management
 - Familiarity with UI libraries and frameworks
-
-## Web Links
-
-- [GitHub](https://github.com/Abhi-6284)
-- [LinkedIn](https://www.linkedin.com/in/prashantabhisheklugun/)

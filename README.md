@@ -8,13 +8,6 @@
 
 <img src="https://avatars.githubusercontent.com/u/136677987?v=4" alt="Prashant Lugun's Photo" height="100px" aspectratio="1/1"/>
 
-## Contact Information
-
-- **Name**: Prashant Lugun
-- **Phone**: +91 8401704771
-- **Email**: [mailto:prashantlugun@gmail.com](prashantlugun@gmail.com)
-- **LinkedIn**: [linkedin.com/in/prashantabhisheklugun](https://www.linkedin.com/in/prashantabhisheklugun)
-
 ## Summary
 
 I am an experienced Full Stack Developer (MERN) based in India. I am passionate about coding and web development, with expertise in a variety of programming languages and technologies. I am dedicated to creating innovative and high-quality websites and software.

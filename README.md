@@ -20,8 +20,8 @@
 
 - Accept New Challenges
 - RESTful API Design using Express.js
-- Database Design and Querying with MongoDB
-- Version Control with Git and GitHub/GitLab
+- Database Design and Querying with NoSQL and SQL
+- Version Control with Git and GitHub
 - Proficient in JavaScript (ES6+)
 - Knowledge of Redux for state management
 - Familiarity with UI libraries and frameworks
